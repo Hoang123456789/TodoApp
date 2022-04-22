@@ -1,0 +1,50 @@
+.ListWork{
+ 
+    position: relative;
+    margin: 10px;
+    padding-bottom: 20px;
+}
+
+.work-input{
+  position:absolute;
+  right: 5px;
+  border-radius: 5px;
+  border: none;
+  color: rgb(33, 110, 57);
+}
+.work-input:hover{
+    background-color: rgb(226, 120, 120)
+}
+.form-check{
+    margin: 5px;
+}
+.addWork{
+    margin-top: 150px;
+
+}
+.addWorkInput{
+    margin-left: 10px;
+    border-radius: 2px 0 0 2px;
+    border:none;
+    width: 245px;
+    height:32px
+}
+.addWorkselect{
+    
+    border:none;
+    height: 32px;
+    border-left: 1px solid #555;
+
+    
+}
+.addWorksubmit{
+    border-radius: 0 2px 2px 0;
+    border:none;
+    height: 32px;
+    background: #1890ff;
+    color:#fff;
+
+}
+.work{
+    margin-bottom: 6px;
+}
